@@ -1,0 +1,16 @@
+{
+    "name": "raion/starkensdk",
+    "description": "Package generated from http://serviciosdls.starken.cl/StarkenServices/starkenServices?WSDL using wsdltophp/packagegenerator",
+    "require": {
+        "php": ">=7.4",
+        "ext-dom": "*",
+        "ext-mbstring": "*",
+        "ext-soap": "*",
+        "wsdltophp/packagebase": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "./src/"
+        }
+    }
+}
