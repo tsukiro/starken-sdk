@@ -1,5 +1,5 @@
 {
-    "name": "raion/starkensdk",
+    "name": "tsukiro/starkensdk",
     "description": "Package generated from http://serviciosdls.starken.cl/StarkenServices/starkenServices?WSDL using wsdltophp/packagegenerator",
     "require": {
         "php": ">=7.4",
